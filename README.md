@@ -1,2 +1,4 @@
 # hello-world
-Hello, GitHub
+Hello, GitHub.
+
+I'm a mathematician and cryptologist from Korea.
